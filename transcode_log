@@ -1,0 +1,886 @@
+Creating Log Session: 
+Session ID: TSLOG0289701770107489215288841773857085935311XA
+2020-02-12 03:31:54,300 INFO     =====================================
+2020-02-12 03:31:54,302 INFO     hello. manager starting..
+2020-02-12 03:31:54,311 INFO     Py - Executing transcode on: ads1.mp4
+
+2020-02-12 03:31:54,423 INFO     Py - I am done with: ads1.mp4
+
+2020-02-12 03:31:54,424 INFO     adfs/ads1/dash/ads1-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:54,425 INFO     adfs/ads1/dash/ads1-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:54,426 INFO     adfs/ads1/dash/ads1-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:54,427 INFO     adfs/ads1/dash/ads1-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:54,429 INFO     adfs/ads1/dash/ads1.mpd doesnt exists. Wrong.
+2020-02-12 03:31:54,432 INFO     adfs/ads1/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,433 INFO     adfs/ads1/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,434 INFO     adfs/ads1/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,435 INFO     adfs/ads1/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,436 INFO     adfs/ads1/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,438 INFO     errcount: 10
+2020-02-12 03:31:54,439 INFO     saving this item into partial list. file id: ads1.mp4
+
+2020-02-12 03:31:54,440 ERROR    
+Error count: 10 File Id: ads1.mp4
+
+2020-02-12 03:31:54,492 INFO     Py - Executing transcode on: ads2.mp4
+
+2020-02-12 03:31:54,585 INFO     Py - I am done with: ads2.mp4
+
+2020-02-12 03:31:54,586 INFO     adfs/ads2/dash/ads2-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:54,587 INFO     adfs/ads2/dash/ads2-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:54,588 INFO     adfs/ads2/dash/ads2-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:54,589 INFO     adfs/ads2/dash/ads2-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:54,590 INFO     adfs/ads2/dash/ads2.mpd doesnt exists. Wrong.
+2020-02-12 03:31:54,591 INFO     adfs/ads2/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,592 INFO     adfs/ads2/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,593 INFO     adfs/ads2/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,594 INFO     adfs/ads2/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,595 INFO     adfs/ads2/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,596 INFO     errcount: 10
+2020-02-12 03:31:54,598 INFO     saving this item into partial list. file id: ads2.mp4
+
+2020-02-12 03:31:54,598 ERROR    
+Error count: 10 File Id: ads2.mp4
+
+2020-02-12 03:31:54,640 INFO     Py - Executing transcode on: ads3.mp4
+
+2020-02-12 03:31:54,733 INFO     Py - I am done with: ads3.mp4
+
+2020-02-12 03:31:54,734 INFO     adfs/ads3/dash/ads3-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:54,735 INFO     adfs/ads3/dash/ads3-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:54,736 INFO     adfs/ads3/dash/ads3-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:54,737 INFO     adfs/ads3/dash/ads3-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:54,738 INFO     adfs/ads3/dash/ads3.mpd doesnt exists. Wrong.
+2020-02-12 03:31:54,742 INFO     adfs/ads3/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,743 INFO     adfs/ads3/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,744 INFO     adfs/ads3/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,745 INFO     adfs/ads3/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,746 INFO     adfs/ads3/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,747 INFO     errcount: 10
+2020-02-12 03:31:54,748 INFO     saving this item into partial list. file id: ads3.mp4
+
+2020-02-12 03:31:54,749 ERROR    
+Error count: 10 File Id: ads3.mp4
+
+2020-02-12 03:31:54,790 INFO     Py - Executing transcode on: ads4.mp4
+
+2020-02-12 03:31:54,881 INFO     Py - I am done with: ads4.mp4
+
+2020-02-12 03:31:54,882 INFO     adfs/ads4/dash/ads4-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:54,883 INFO     adfs/ads4/dash/ads4-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:54,884 INFO     adfs/ads4/dash/ads4-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:54,885 INFO     adfs/ads4/dash/ads4-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:54,886 INFO     adfs/ads4/dash/ads4.mpd doesnt exists. Wrong.
+2020-02-12 03:31:54,887 INFO     adfs/ads4/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,888 INFO     adfs/ads4/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,889 INFO     adfs/ads4/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,890 INFO     adfs/ads4/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,891 INFO     adfs/ads4/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:54,892 INFO     errcount: 10
+2020-02-12 03:31:54,898 INFO     saving this item into partial list. file id: ads4.mp4
+
+2020-02-12 03:31:54,899 ERROR    
+Error count: 10 File Id: ads4.mp4
+
+2020-02-12 03:31:54,940 INFO     Py - Executing transcode on: ads5.mp4
+
+2020-02-12 03:31:55,031 INFO     Py - I am done with: ads5.mp4
+
+2020-02-12 03:31:55,033 INFO     adfs/ads5/dash/ads5-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,034 INFO     adfs/ads5/dash/ads5-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,035 INFO     adfs/ads5/dash/ads5-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,036 INFO     adfs/ads5/dash/ads5-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,037 INFO     adfs/ads5/dash/ads5.mpd doesnt exists. Wrong.
+2020-02-12 03:31:55,038 INFO     adfs/ads5/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,039 INFO     adfs/ads5/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,040 INFO     adfs/ads5/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,041 INFO     adfs/ads5/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,042 INFO     adfs/ads5/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,043 INFO     errcount: 10
+2020-02-12 03:31:55,045 INFO     saving this item into partial list. file id: ads5.mp4
+
+2020-02-12 03:31:55,045 ERROR    
+Error count: 10 File Id: ads5.mp4
+
+2020-02-12 03:31:55,086 INFO     Py - Executing transcode on: ads6.mp4
+
+2020-02-12 03:31:55,178 INFO     Py - I am done with: ads6.mp4
+
+2020-02-12 03:31:55,179 INFO     adfs/ads6/dash/ads6-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,180 INFO     adfs/ads6/dash/ads6-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,182 INFO     adfs/ads6/dash/ads6-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,183 INFO     adfs/ads6/dash/ads6-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,184 INFO     adfs/ads6/dash/ads6.mpd doesnt exists. Wrong.
+2020-02-12 03:31:55,187 INFO     adfs/ads6/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,188 INFO     adfs/ads6/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,189 INFO     adfs/ads6/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,191 INFO     adfs/ads6/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,192 INFO     adfs/ads6/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,192 INFO     errcount: 10
+2020-02-12 03:31:55,194 INFO     saving this item into partial list. file id: ads6.mp4
+
+2020-02-12 03:31:55,195 ERROR    
+Error count: 10 File Id: ads6.mp4
+
+2020-02-12 03:31:55,236 INFO     Py - Executing transcode on: ads7.mp4
+
+2020-02-12 03:31:55,328 INFO     Py - I am done with: ads7.mp4
+
+2020-02-12 03:31:55,330 INFO     adfs/ads7/dash/ads7-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,331 INFO     adfs/ads7/dash/ads7-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,332 INFO     adfs/ads7/dash/ads7-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,333 INFO     adfs/ads7/dash/ads7-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,334 INFO     adfs/ads7/dash/ads7.mpd doesnt exists. Wrong.
+2020-02-12 03:31:55,337 INFO     adfs/ads7/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,339 INFO     adfs/ads7/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,340 INFO     adfs/ads7/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,341 INFO     adfs/ads7/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,342 INFO     adfs/ads7/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,343 INFO     errcount: 10
+2020-02-12 03:31:55,344 INFO     saving this item into partial list. file id: ads7.mp4
+
+2020-02-12 03:31:55,345 ERROR    
+Error count: 10 File Id: ads7.mp4
+
+2020-02-12 03:31:55,386 INFO     Py - Executing transcode on: ads8.mp4
+
+2020-02-12 03:31:55,477 INFO     Py - I am done with: ads8.mp4
+
+2020-02-12 03:31:55,479 INFO     adfs/ads8/dash/ads8-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,480 INFO     adfs/ads8/dash/ads8-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,481 INFO     adfs/ads8/dash/ads8-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,482 INFO     adfs/ads8/dash/ads8-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,483 INFO     adfs/ads8/dash/ads8.mpd doesnt exists. Wrong.
+2020-02-12 03:31:55,484 INFO     adfs/ads8/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,484 INFO     adfs/ads8/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,485 INFO     adfs/ads8/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,486 INFO     adfs/ads8/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,487 INFO     adfs/ads8/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,488 INFO     errcount: 10
+2020-02-12 03:31:55,490 INFO     saving this item into partial list. file id: ads8.mp4
+
+2020-02-12 03:31:55,491 ERROR    
+Error count: 10 File Id: ads8.mp4
+
+2020-02-12 03:31:55,533 INFO     Py - Executing transcode on: ads9.mp4
+
+2020-02-12 03:31:55,625 INFO     Py - I am done with: ads9.mp4
+
+2020-02-12 03:31:55,626 INFO     adfs/ads9/dash/ads9-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,627 INFO     adfs/ads9/dash/ads9-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,628 INFO     adfs/ads9/dash/ads9-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,629 INFO     adfs/ads9/dash/ads9-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,630 INFO     adfs/ads9/dash/ads9.mpd doesnt exists. Wrong.
+2020-02-12 03:31:55,631 INFO     adfs/ads9/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,635 INFO     adfs/ads9/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,636 INFO     adfs/ads9/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,637 INFO     adfs/ads9/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,638 INFO     adfs/ads9/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,639 INFO     errcount: 10
+2020-02-12 03:31:55,641 INFO     saving this item into partial list. file id: ads9.mp4
+
+2020-02-12 03:31:55,641 ERROR    
+Error count: 10 File Id: ads9.mp4
+
+2020-02-12 03:31:55,682 INFO     Py - Executing transcode on: ads10.mp4
+
+2020-02-12 03:31:55,776 INFO     Py - I am done with: ads10.mp4
+
+2020-02-12 03:31:55,777 INFO     adfs/ads10/dash/ads10-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,778 INFO     adfs/ads10/dash/ads10-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,779 INFO     adfs/ads10/dash/ads10-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,780 INFO     adfs/ads10/dash/ads10-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,781 INFO     adfs/ads10/dash/ads10.mpd doesnt exists. Wrong.
+2020-02-12 03:31:55,782 INFO     adfs/ads10/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,783 INFO     adfs/ads10/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,784 INFO     adfs/ads10/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,789 INFO     adfs/ads10/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,790 INFO     adfs/ads10/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,791 INFO     errcount: 10
+2020-02-12 03:31:55,793 INFO     saving this item into partial list. file id: ads10.mp4
+
+2020-02-12 03:31:55,793 ERROR    
+Error count: 10 File Id: ads10.mp4
+
+2020-02-12 03:31:55,834 INFO     Py - Executing transcode on: ads11.mp4
+
+2020-02-12 03:31:55,928 INFO     Py - I am done with: ads11.mp4
+
+2020-02-12 03:31:55,929 INFO     adfs/ads11/dash/ads11-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,930 INFO     adfs/ads11/dash/ads11-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,931 INFO     adfs/ads11/dash/ads11-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,932 INFO     adfs/ads11/dash/ads11-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:55,933 INFO     adfs/ads11/dash/ads11.mpd doesnt exists. Wrong.
+2020-02-12 03:31:55,934 INFO     adfs/ads11/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,935 INFO     adfs/ads11/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,936 INFO     adfs/ads11/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,937 INFO     adfs/ads11/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,938 INFO     adfs/ads11/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:55,943 INFO     errcount: 10
+2020-02-12 03:31:55,945 INFO     saving this item into partial list. file id: ads11.mp4
+
+2020-02-12 03:31:55,945 ERROR    
+Error count: 10 File Id: ads11.mp4
+
+2020-02-12 03:31:55,989 INFO     Py - Executing transcode on: ads12.mp4
+
+2020-02-12 03:31:56,080 INFO     Py - I am done with: ads12.mp4
+
+2020-02-12 03:31:56,081 INFO     adfs/ads12/dash/ads12-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,082 INFO     adfs/ads12/dash/ads12-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,083 INFO     adfs/ads12/dash/ads12-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,084 INFO     adfs/ads12/dash/ads12-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,085 INFO     adfs/ads12/dash/ads12.mpd doesnt exists. Wrong.
+2020-02-12 03:31:56,086 INFO     adfs/ads12/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,087 INFO     adfs/ads12/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,088 INFO     adfs/ads12/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,089 INFO     adfs/ads12/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,090 INFO     adfs/ads12/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,091 INFO     errcount: 10
+2020-02-12 03:31:56,097 INFO     saving this item into partial list. file id: ads12.mp4
+
+2020-02-12 03:31:56,098 ERROR    
+Error count: 10 File Id: ads12.mp4
+
+2020-02-12 03:31:56,139 INFO     Py - Executing transcode on: ads13.mp4
+
+2020-02-12 03:31:56,236 INFO     Py - I am done with: ads13.mp4
+
+2020-02-12 03:31:56,238 INFO     adfs/ads13/dash/ads13-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,239 INFO     adfs/ads13/dash/ads13-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,240 INFO     adfs/ads13/dash/ads13-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,241 INFO     adfs/ads13/dash/ads13-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,242 INFO     adfs/ads13/dash/ads13.mpd doesnt exists. Wrong.
+2020-02-12 03:31:56,246 INFO     adfs/ads13/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,247 INFO     adfs/ads13/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,248 INFO     adfs/ads13/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,250 INFO     adfs/ads13/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,251 INFO     adfs/ads13/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,252 INFO     errcount: 10
+2020-02-12 03:31:56,258 INFO     saving this item into partial list. file id: ads13.mp4
+
+2020-02-12 03:31:56,258 ERROR    
+Error count: 10 File Id: ads13.mp4
+
+2020-02-12 03:31:56,305 INFO     Py - Executing transcode on: ads14.mp4
+
+2020-02-12 03:31:56,406 INFO     Py - I am done with: ads14.mp4
+
+2020-02-12 03:31:56,407 INFO     adfs/ads14/dash/ads14-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,409 INFO     adfs/ads14/dash/ads14-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,410 INFO     adfs/ads14/dash/ads14-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,411 INFO     adfs/ads14/dash/ads14-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,415 INFO     adfs/ads14/dash/ads14.mpd doesnt exists. Wrong.
+2020-02-12 03:31:56,416 INFO     adfs/ads14/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,417 INFO     adfs/ads14/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,418 INFO     adfs/ads14/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,420 INFO     adfs/ads14/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,422 INFO     adfs/ads14/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,426 INFO     errcount: 10
+2020-02-12 03:31:56,428 INFO     saving this item into partial list. file id: ads14.mp4
+
+2020-02-12 03:31:56,428 ERROR    
+Error count: 10 File Id: ads14.mp4
+
+2020-02-12 03:31:56,470 INFO     Py - Executing transcode on: ads15.mp4
+
+2020-02-12 03:31:56,560 INFO     Py - I am done with: ads15.mp4
+
+2020-02-12 03:31:56,561 INFO     adfs/ads15/dash/ads15-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,562 INFO     adfs/ads15/dash/ads15-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,563 INFO     adfs/ads15/dash/ads15-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,564 INFO     adfs/ads15/dash/ads15-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,565 INFO     adfs/ads15/dash/ads15.mpd doesnt exists. Wrong.
+2020-02-12 03:31:56,566 INFO     adfs/ads15/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,567 INFO     adfs/ads15/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,568 INFO     adfs/ads15/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,569 INFO     adfs/ads15/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,570 INFO     adfs/ads15/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,571 INFO     errcount: 10
+2020-02-12 03:31:56,574 INFO     saving this item into partial list. file id: ads15.mp4
+
+2020-02-12 03:31:56,574 ERROR    
+Error count: 10 File Id: ads15.mp4
+
+2020-02-12 03:31:56,617 INFO     Py - Executing transcode on: ads16.mp4
+
+2020-02-12 03:31:56,708 INFO     Py - I am done with: ads16.mp4
+
+2020-02-12 03:31:56,709 INFO     adfs/ads16/dash/ads16-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,710 INFO     adfs/ads16/dash/ads16-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,711 INFO     adfs/ads16/dash/ads16-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,712 INFO     adfs/ads16/dash/ads16-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,713 INFO     adfs/ads16/dash/ads16.mpd doesnt exists. Wrong.
+2020-02-12 03:31:56,714 INFO     adfs/ads16/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,715 INFO     adfs/ads16/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,716 INFO     adfs/ads16/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,717 INFO     adfs/ads16/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,718 INFO     adfs/ads16/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,719 INFO     errcount: 10
+2020-02-12 03:31:56,721 INFO     saving this item into partial list. file id: ads16.mp4
+
+2020-02-12 03:31:56,722 ERROR    
+Error count: 10 File Id: ads16.mp4
+
+2020-02-12 03:31:56,763 INFO     Py - Executing transcode on: ads17.mp4
+
+2020-02-12 03:31:56,857 INFO     Py - I am done with: ads17.mp4
+
+2020-02-12 03:31:56,858 INFO     adfs/ads17/dash/ads17-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,859 INFO     adfs/ads17/dash/ads17-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,860 INFO     adfs/ads17/dash/ads17-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,861 INFO     adfs/ads17/dash/ads17-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:56,862 INFO     adfs/ads17/dash/ads17.mpd doesnt exists. Wrong.
+2020-02-12 03:31:56,863 INFO     adfs/ads17/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,864 INFO     adfs/ads17/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,865 INFO     adfs/ads17/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,866 INFO     adfs/ads17/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,871 INFO     adfs/ads17/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:56,872 INFO     errcount: 10
+2020-02-12 03:31:56,873 INFO     saving this item into partial list. file id: ads17.mp4
+
+2020-02-12 03:31:56,874 ERROR    
+Error count: 10 File Id: ads17.mp4
+
+2020-02-12 03:31:56,915 INFO     Py - Executing transcode on: ads18.mp4
+
+2020-02-12 03:31:57,010 INFO     Py - I am done with: ads18.mp4
+
+2020-02-12 03:31:57,011 INFO     adfs/ads18/dash/ads18-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:57,012 INFO     adfs/ads18/dash/ads18-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:57,013 INFO     adfs/ads18/dash/ads18-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:57,014 INFO     adfs/ads18/dash/ads18-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 03:31:57,015 INFO     adfs/ads18/dash/ads18.mpd doesnt exists. Wrong.
+2020-02-12 03:31:57,016 INFO     adfs/ads18/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:57,017 INFO     adfs/ads18/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:57,018 INFO     adfs/ads18/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:57,019 INFO     adfs/ads18/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:57,024 INFO     adfs/ads18/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 03:31:57,025 INFO     errcount: 10
+2020-02-12 03:31:57,027 INFO     saving this item into partial list. file id: ads18.mp4
+
+2020-02-12 03:31:57,027 ERROR    
+Error count: 10 File Id: ads18.mp4
+
+2020-02-12 03:34:53,913 INFO     =====================================
+2020-02-12 03:34:53,913 INFO     hello. manager starting..
+2020-02-12 03:34:53,916 INFO     Py - Executing transcode on: ads1.mp4
+
+2020-02-12 03:35:51,712 INFO     Py - I am done with: ads1.mp4
+
+2020-02-12 03:35:51,713 INFO     adfs/ads1/dash/ads1-360p_dashinit.mp4 exists. Check.
+2020-02-12 03:35:51,714 INFO     adfs/ads1/dash/ads1-480p_dashinit.mp4 exists. Check.
+2020-02-12 03:35:51,715 INFO     adfs/ads1/dash/ads1-720p_dashinit.mp4 exists. Check.
+2020-02-12 03:35:51,716 INFO     adfs/ads1/dash/ads1-1080p_dashinit.mp4 exists. Check.
+2020-02-12 03:35:51,717 INFO     adfs/ads1/dash/ads1.mpd exists. Check.
+2020-02-12 03:35:51,718 INFO     adfs/ads1/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 03:35:51,723 INFO     adfs/ads1/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 03:35:51,724 INFO     adfs/ads1/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 03:35:51,729 INFO     adfs/ads1/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 03:35:51,730 INFO     adfs/ads1/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 03:35:51,731 INFO     errcount: 0
+2020-02-12 03:35:51,732 INFO     i am gonna delete top queue id: ads1.mp4
+
+2020-02-12 03:35:51,768 INFO     Py - Executing transcode on: ads2.mp4
+
+2020-02-12 03:37:25,054 INFO     Py - I am done with: ads2.mp4
+
+2020-02-12 03:37:25,055 INFO     adfs/ads2/dash/ads2-360p_dashinit.mp4 exists. Check.
+2020-02-12 03:37:25,056 INFO     adfs/ads2/dash/ads2-480p_dashinit.mp4 exists. Check.
+2020-02-12 03:37:25,057 INFO     adfs/ads2/dash/ads2-720p_dashinit.mp4 exists. Check.
+2020-02-12 03:37:25,058 INFO     adfs/ads2/dash/ads2-1080p_dashinit.mp4 exists. Check.
+2020-02-12 03:37:25,059 INFO     adfs/ads2/dash/ads2.mpd exists. Check.
+2020-02-12 03:37:25,060 INFO     adfs/ads2/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 03:37:25,061 INFO     adfs/ads2/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 03:37:25,062 INFO     adfs/ads2/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 03:37:25,068 INFO     adfs/ads2/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 03:37:25,069 INFO     adfs/ads2/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 03:37:25,071 INFO     errcount: 0
+2020-02-12 03:37:25,073 INFO     i am gonna delete top queue id: ads2.mp4
+
+2020-02-12 03:37:25,108 INFO     Py - Executing transcode on: ads3.mp4
+
+2020-02-12 03:39:45,726 INFO     Py - I am done with: ads3.mp4
+
+2020-02-12 03:39:45,727 INFO     adfs/ads3/dash/ads3-360p_dashinit.mp4 exists. Check.
+2020-02-12 03:39:45,728 INFO     adfs/ads3/dash/ads3-480p_dashinit.mp4 exists. Check.
+2020-02-12 03:39:45,730 INFO     adfs/ads3/dash/ads3-720p_dashinit.mp4 exists. Check.
+2020-02-12 03:39:45,731 INFO     adfs/ads3/dash/ads3-1080p_dashinit.mp4 exists. Check.
+2020-02-12 03:39:45,732 INFO     adfs/ads3/dash/ads3.mpd exists. Check.
+2020-02-12 03:39:45,733 INFO     adfs/ads3/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 03:39:45,734 INFO     adfs/ads3/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 03:39:45,735 INFO     adfs/ads3/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 03:39:45,736 INFO     adfs/ads3/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 03:39:45,737 INFO     adfs/ads3/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 03:39:45,738 INFO     errcount: 0
+2020-02-12 03:39:45,740 INFO     i am gonna delete top queue id: ads3.mp4
+
+2020-02-12 03:39:45,775 INFO     Py - Executing transcode on: ads4.mp4
+
+2020-02-12 03:42:21,805 INFO     Py - I am done with: ads4.mp4
+
+2020-02-12 03:42:21,806 INFO     adfs/ads4/dash/ads4-360p_dashinit.mp4 exists. Check.
+2020-02-12 03:42:21,807 INFO     adfs/ads4/dash/ads4-480p_dashinit.mp4 exists. Check.
+2020-02-12 03:42:21,808 INFO     adfs/ads4/dash/ads4-720p_dashinit.mp4 exists. Check.
+2020-02-12 03:42:21,809 INFO     adfs/ads4/dash/ads4-1080p_dashinit.mp4 exists. Check.
+2020-02-12 03:42:21,810 INFO     adfs/ads4/dash/ads4.mpd exists. Check.
+2020-02-12 03:42:21,812 INFO     adfs/ads4/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 03:42:21,813 INFO     adfs/ads4/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 03:42:21,814 INFO     adfs/ads4/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 03:42:21,820 INFO     adfs/ads4/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 03:42:21,821 INFO     adfs/ads4/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 03:42:21,825 INFO     errcount: 0
+2020-02-12 03:42:21,827 INFO     i am gonna delete top queue id: ads4.mp4
+
+2020-02-12 03:42:21,863 INFO     Py - Executing transcode on: ads5.mp4
+
+2020-02-12 03:45:17,705 INFO     Py - I am done with: ads5.mp4
+
+2020-02-12 03:45:17,706 INFO     adfs/ads5/dash/ads5-360p_dashinit.mp4 exists. Check.
+2020-02-12 03:45:17,707 INFO     adfs/ads5/dash/ads5-480p_dashinit.mp4 exists. Check.
+2020-02-12 03:45:17,708 INFO     adfs/ads5/dash/ads5-720p_dashinit.mp4 exists. Check.
+2020-02-12 03:45:17,709 INFO     adfs/ads5/dash/ads5-1080p_dashinit.mp4 exists. Check.
+2020-02-12 03:45:17,710 INFO     adfs/ads5/dash/ads5.mpd exists. Check.
+2020-02-12 03:45:17,711 INFO     adfs/ads5/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 03:45:17,712 INFO     adfs/ads5/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 03:45:17,717 INFO     adfs/ads5/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 03:45:17,718 INFO     adfs/ads5/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 03:45:17,720 INFO     adfs/ads5/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 03:45:17,721 INFO     errcount: 0
+2020-02-12 03:45:17,723 INFO     i am gonna delete top queue id: ads5.mp4
+
+2020-02-12 03:45:17,758 INFO     Py - Executing transcode on: ads6.mp4
+
+2020-02-12 03:47:32,644 INFO     Py - I am done with: ads6.mp4
+
+2020-02-12 03:47:32,645 INFO     adfs/ads6/dash/ads6-360p_dashinit.mp4 exists. Check.
+2020-02-12 03:47:32,646 INFO     adfs/ads6/dash/ads6-480p_dashinit.mp4 exists. Check.
+2020-02-12 03:47:32,647 INFO     adfs/ads6/dash/ads6-720p_dashinit.mp4 exists. Check.
+2020-02-12 03:47:32,648 INFO     adfs/ads6/dash/ads6-1080p_dashinit.mp4 exists. Check.
+2020-02-12 03:47:32,649 INFO     adfs/ads6/dash/ads6.mpd exists. Check.
+2020-02-12 03:47:32,650 INFO     adfs/ads6/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 03:47:32,651 INFO     adfs/ads6/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 03:47:32,652 INFO     adfs/ads6/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 03:47:32,653 INFO     adfs/ads6/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 03:47:32,654 INFO     adfs/ads6/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 03:47:32,656 INFO     errcount: 0
+2020-02-12 03:47:32,658 INFO     i am gonna delete top queue id: ads6.mp4
+
+2020-02-12 03:47:32,707 INFO     Py - Executing transcode on: ads7.mp4
+
+2020-02-12 03:48:58,312 INFO     Py - I am done with: ads7.mp4
+
+2020-02-12 03:48:58,313 INFO     adfs/ads7/dash/ads7-360p_dashinit.mp4 exists. Check.
+2020-02-12 03:48:58,314 INFO     adfs/ads7/dash/ads7-480p_dashinit.mp4 exists. Check.
+2020-02-12 03:48:58,315 INFO     adfs/ads7/dash/ads7-720p_dashinit.mp4 exists. Check.
+2020-02-12 03:48:58,316 INFO     adfs/ads7/dash/ads7-1080p_dashinit.mp4 exists. Check.
+2020-02-12 03:48:58,317 INFO     adfs/ads7/dash/ads7.mpd exists. Check.
+2020-02-12 03:48:58,318 INFO     adfs/ads7/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 03:48:58,323 INFO     adfs/ads7/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 03:48:58,324 INFO     adfs/ads7/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 03:48:58,327 INFO     adfs/ads7/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 03:48:58,328 INFO     adfs/ads7/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 03:48:58,329 INFO     errcount: 0
+2020-02-12 03:48:58,331 INFO     i am gonna delete top queue id: ads7.mp4
+
+2020-02-12 03:48:58,366 INFO     Py - Executing transcode on: ads8.mp4
+
+2020-02-12 03:49:51,614 INFO     Py - I am done with: ads8.mp4
+
+2020-02-12 03:49:51,615 INFO     adfs/ads8/dash/ads8-360p_dashinit.mp4 exists. Check.
+2020-02-12 03:49:51,616 INFO     adfs/ads8/dash/ads8-480p_dashinit.mp4 exists. Check.
+2020-02-12 03:49:51,617 INFO     adfs/ads8/dash/ads8-720p_dashinit.mp4 exists. Check.
+2020-02-12 03:49:51,618 INFO     adfs/ads8/dash/ads8-1080p_dashinit.mp4 exists. Check.
+2020-02-12 03:49:51,619 INFO     adfs/ads8/dash/ads8.mpd exists. Check.
+2020-02-12 03:49:51,620 INFO     adfs/ads8/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 03:49:51,621 INFO     adfs/ads8/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 03:49:51,623 INFO     adfs/ads8/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 03:49:51,624 INFO     adfs/ads8/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 03:49:51,629 INFO     adfs/ads8/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 03:49:51,631 INFO     errcount: 0
+2020-02-12 03:49:51,634 INFO     i am gonna delete top queue id: ads8.mp4
+
+2020-02-12 03:49:51,671 INFO     Py - Executing transcode on: ads9.mp4
+
+2020-02-12 03:52:06,484 INFO     Py - I am done with: ads9.mp4
+
+2020-02-12 03:52:06,485 INFO     adfs/ads9/dash/ads9-360p_dashinit.mp4 exists. Check.
+2020-02-12 03:52:06,486 INFO     adfs/ads9/dash/ads9-480p_dashinit.mp4 exists. Check.
+2020-02-12 03:52:06,488 INFO     adfs/ads9/dash/ads9-720p_dashinit.mp4 exists. Check.
+2020-02-12 03:52:06,489 INFO     adfs/ads9/dash/ads9-1080p_dashinit.mp4 exists. Check.
+2020-02-12 03:52:06,490 INFO     adfs/ads9/dash/ads9.mpd exists. Check.
+2020-02-12 03:52:06,491 INFO     adfs/ads9/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 03:52:06,492 INFO     adfs/ads9/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 03:52:06,493 INFO     adfs/ads9/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 03:52:06,494 INFO     adfs/ads9/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 03:52:06,495 INFO     adfs/ads9/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 03:52:06,496 INFO     errcount: 0
+2020-02-12 03:52:06,498 INFO     i am gonna delete top queue id: ads9.mp4
+
+2020-02-12 03:52:06,542 INFO     Py - Executing transcode on: ads10.mp4
+
+2020-02-12 03:52:59,049 INFO     Py - I am done with: ads10.mp4
+
+2020-02-12 03:52:59,050 INFO     adfs/ads10/dash/ads10-360p_dashinit.mp4 exists. Check.
+2020-02-12 03:52:59,051 INFO     adfs/ads10/dash/ads10-480p_dashinit.mp4 exists. Check.
+2020-02-12 03:52:59,052 INFO     adfs/ads10/dash/ads10-720p_dashinit.mp4 exists. Check.
+2020-02-12 03:52:59,053 INFO     adfs/ads10/dash/ads10-1080p_dashinit.mp4 exists. Check.
+2020-02-12 03:52:59,054 INFO     adfs/ads10/dash/ads10.mpd exists. Check.
+2020-02-12 03:52:59,055 INFO     adfs/ads10/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 03:52:59,056 INFO     adfs/ads10/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 03:52:59,057 INFO     adfs/ads10/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 03:52:59,058 INFO     adfs/ads10/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 03:52:59,059 INFO     adfs/ads10/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 03:52:59,060 INFO     errcount: 0
+2020-02-12 03:52:59,070 INFO     i am gonna delete top queue id: ads10.mp4
+
+2020-02-12 03:52:59,106 INFO     Py - Executing transcode on: ads11.mp4
+
+2020-02-12 03:53:20,422 INFO     Py - I am done with: ads11.mp4
+
+2020-02-12 03:53:20,423 INFO     adfs/ads11/dash/ads11-360p_dashinit.mp4 exists. Check.
+2020-02-12 03:53:20,424 INFO     adfs/ads11/dash/ads11-480p_dashinit.mp4 exists. Check.
+2020-02-12 03:53:20,425 INFO     adfs/ads11/dash/ads11-720p_dashinit.mp4 exists. Check.
+2020-02-12 03:53:20,426 INFO     adfs/ads11/dash/ads11-1080p_dashinit.mp4 exists. Check.
+2020-02-12 03:53:20,427 INFO     adfs/ads11/dash/ads11.mpd exists. Check.
+2020-02-12 03:53:20,428 INFO     adfs/ads11/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 03:53:20,429 INFO     adfs/ads11/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 03:53:20,430 INFO     adfs/ads11/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 03:53:20,431 INFO     adfs/ads11/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 03:53:20,433 INFO     adfs/ads11/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 03:53:20,434 INFO     errcount: 0
+2020-02-12 03:53:20,436 INFO     i am gonna delete top queue id: ads11.mp4
+
+2020-02-12 03:53:20,470 INFO     Py - Executing transcode on: ads12.mp4
+
+2020-02-12 03:54:15,339 INFO     Py - I am done with: ads12.mp4
+
+2020-02-12 03:54:15,341 INFO     adfs/ads12/dash/ads12-360p_dashinit.mp4 exists. Check.
+2020-02-12 03:54:15,342 INFO     adfs/ads12/dash/ads12-480p_dashinit.mp4 exists. Check.
+2020-02-12 03:54:15,343 INFO     adfs/ads12/dash/ads12-720p_dashinit.mp4 exists. Check.
+2020-02-12 03:54:15,344 INFO     adfs/ads12/dash/ads12-1080p_dashinit.mp4 exists. Check.
+2020-02-12 03:54:15,345 INFO     adfs/ads12/dash/ads12.mpd exists. Check.
+2020-02-12 03:54:15,346 INFO     adfs/ads12/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 03:54:15,347 INFO     adfs/ads12/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 03:54:15,348 INFO     adfs/ads12/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 03:54:15,349 INFO     adfs/ads12/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 03:54:15,350 INFO     adfs/ads12/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 03:54:15,351 INFO     errcount: 0
+2020-02-12 03:54:15,353 INFO     i am gonna delete top queue id: ads12.mp4
+
+2020-02-12 03:54:15,390 INFO     Py - Executing transcode on: ads13.mp4
+
+2020-02-12 03:55:19,745 INFO     Py - I am done with: ads13.mp4
+
+2020-02-12 03:55:19,746 INFO     adfs/ads13/dash/ads13-360p_dashinit.mp4 exists. Check.
+2020-02-12 03:55:19,747 INFO     adfs/ads13/dash/ads13-480p_dashinit.mp4 exists. Check.
+2020-02-12 03:55:19,748 INFO     adfs/ads13/dash/ads13-720p_dashinit.mp4 exists. Check.
+2020-02-12 03:55:19,749 INFO     adfs/ads13/dash/ads13-1080p_dashinit.mp4 exists. Check.
+2020-02-12 03:55:19,750 INFO     adfs/ads13/dash/ads13.mpd exists. Check.
+2020-02-12 03:55:19,751 INFO     adfs/ads13/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 03:55:19,752 INFO     adfs/ads13/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 03:55:19,753 INFO     adfs/ads13/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 03:55:19,754 INFO     adfs/ads13/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 03:55:19,755 INFO     adfs/ads13/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 03:55:19,756 INFO     errcount: 0
+2020-02-12 03:55:19,758 INFO     i am gonna delete top queue id: ads13.mp4
+
+Creating Log Session: 
+Session ID: TSLOG8170981880298059220821572585847470794483XB
+2020-02-12 03:55:19,796 INFO     Py - Executing transcode on: ads14.mp4
+
+2020-02-12 03:58:08,577 INFO     Py - I am done with: ads14.mp4
+
+2020-02-12 03:58:08,578 INFO     adfs/ads14/dash/ads14-360p_dashinit.mp4 exists. Check.
+2020-02-12 03:58:08,579 INFO     adfs/ads14/dash/ads14-480p_dashinit.mp4 exists. Check.
+2020-02-12 03:58:08,580 INFO     adfs/ads14/dash/ads14-720p_dashinit.mp4 exists. Check.
+2020-02-12 03:58:08,582 INFO     adfs/ads14/dash/ads14-1080p_dashinit.mp4 exists. Check.
+2020-02-12 03:58:08,583 INFO     adfs/ads14/dash/ads14.mpd exists. Check.
+2020-02-12 03:58:08,584 INFO     adfs/ads14/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 03:58:08,585 INFO     adfs/ads14/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 03:58:08,586 INFO     adfs/ads14/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 03:58:08,587 INFO     adfs/ads14/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 03:58:08,588 INFO     adfs/ads14/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 03:58:08,589 INFO     errcount: 0
+2020-02-12 03:58:08,591 INFO     i am gonna delete top queue id: ads14.mp4
+
+2020-02-12 03:58:08,626 INFO     Py - Executing transcode on: ads15.mp4
+
+2020-02-12 03:59:17,296 INFO     Py - I am done with: ads15.mp4
+
+2020-02-12 03:59:17,297 INFO     adfs/ads15/dash/ads15-360p_dashinit.mp4 exists. Check.
+2020-02-12 03:59:17,298 INFO     adfs/ads15/dash/ads15-480p_dashinit.mp4 exists. Check.
+2020-02-12 03:59:17,299 INFO     adfs/ads15/dash/ads15-720p_dashinit.mp4 exists. Check.
+2020-02-12 03:59:17,301 INFO     adfs/ads15/dash/ads15-1080p_dashinit.mp4 exists. Check.
+2020-02-12 03:59:17,302 INFO     adfs/ads15/dash/ads15.mpd exists. Check.
+2020-02-12 03:59:17,303 INFO     adfs/ads15/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 03:59:17,304 INFO     adfs/ads15/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 03:59:17,305 INFO     adfs/ads15/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 03:59:17,306 INFO     adfs/ads15/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 03:59:17,307 INFO     adfs/ads15/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 03:59:17,308 INFO     errcount: 0
+2020-02-12 03:59:17,310 INFO     i am gonna delete top queue id: ads15.mp4
+
+2020-02-12 03:59:17,354 INFO     Py - Executing transcode on: ads16.mp4
+
+2020-02-12 03:59:48,253 INFO     Py - I am done with: ads16.mp4
+
+2020-02-12 03:59:48,254 INFO     adfs/ads16/dash/ads16-360p_dashinit.mp4 exists. Check.
+2020-02-12 03:59:48,255 INFO     adfs/ads16/dash/ads16-480p_dashinit.mp4 exists. Check.
+2020-02-12 03:59:48,256 INFO     adfs/ads16/dash/ads16-720p_dashinit.mp4 exists. Check.
+2020-02-12 03:59:48,257 INFO     adfs/ads16/dash/ads16-1080p_dashinit.mp4 exists. Check.
+2020-02-12 03:59:48,258 INFO     adfs/ads16/dash/ads16.mpd exists. Check.
+2020-02-12 03:59:48,259 INFO     adfs/ads16/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 03:59:48,264 INFO     adfs/ads16/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 03:59:48,265 INFO     adfs/ads16/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 03:59:48,268 INFO     adfs/ads16/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 03:59:48,269 INFO     adfs/ads16/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 03:59:48,270 INFO     errcount: 0
+2020-02-12 03:59:48,272 INFO     i am gonna delete top queue id: ads16.mp4
+
+2020-02-12 03:59:48,308 INFO     Py - Executing transcode on: ads17.mp4
+
+2020-02-12 04:00:33,671 INFO     Py - I am done with: ads17.mp4
+
+2020-02-12 04:00:33,672 INFO     adfs/ads17/dash/ads17-360p_dashinit.mp4 exists. Check.
+2020-02-12 04:00:33,673 INFO     adfs/ads17/dash/ads17-480p_dashinit.mp4 exists. Check.
+2020-02-12 04:00:33,674 INFO     adfs/ads17/dash/ads17-720p_dashinit.mp4 exists. Check.
+2020-02-12 04:00:33,675 INFO     adfs/ads17/dash/ads17-1080p_dashinit.mp4 exists. Check.
+2020-02-12 04:00:33,676 INFO     adfs/ads17/dash/ads17.mpd exists. Check.
+2020-02-12 04:00:33,677 INFO     adfs/ads17/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 04:00:33,677 INFO     adfs/ads17/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 04:00:33,678 INFO     adfs/ads17/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 04:00:33,678 INFO     adfs/ads17/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 04:00:33,679 INFO     adfs/ads17/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 04:00:33,680 INFO     errcount: 0
+2020-02-12 04:00:33,680 INFO     i am gonna delete top queue id: ads17.mp4
+
+2020-02-12 04:00:33,716 INFO     Py - Executing transcode on: ads18.mp4
+
+2020-02-12 04:01:04,798 INFO     Py - I am done with: ads18.mp4
+
+2020-02-12 04:01:04,799 INFO     adfs/ads18/dash/ads18-360p_dashinit.mp4 exists. Check.
+2020-02-12 04:01:04,799 INFO     adfs/ads18/dash/ads18-480p_dashinit.mp4 exists. Check.
+2020-02-12 04:01:04,800 INFO     adfs/ads18/dash/ads18-720p_dashinit.mp4 exists. Check.
+2020-02-12 04:01:04,800 INFO     adfs/ads18/dash/ads18-1080p_dashinit.mp4 exists. Check.
+2020-02-12 04:01:04,801 INFO     adfs/ads18/dash/ads18.mpd exists. Check.
+2020-02-12 04:01:04,802 INFO     adfs/ads18/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 04:01:04,802 INFO     adfs/ads18/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 04:01:04,803 INFO     adfs/ads18/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 04:01:04,803 INFO     adfs/ads18/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 04:01:04,804 INFO     adfs/ads18/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 04:01:04,804 INFO     errcount: 0
+2020-02-12 04:01:04,805 INFO     i am gonna delete top queue id: ads18.mp4
+
+2020-02-12 23:05:52,289 INFO     =====================================
+2020-02-12 23:05:52,291 INFO     hello. manager starting..
+2020-02-12 23:05:52,293 INFO     Py - Executing transcode on: video1.mp4
+
+2020-02-12 23:05:52,409 INFO     Py - I am done with: video1.mp4
+
+2020-02-12 23:05:52,410 INFO     vidfs/video1/dash/video1-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:52,411 INFO     vidfs/video1/dash/video1-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:52,412 INFO     vidfs/video1/dash/video1-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:52,412 INFO     vidfs/video1/dash/video1-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:52,413 INFO     vidfs/video1/dash/video1.mpd doesnt exists. Wrong.
+2020-02-12 23:05:52,413 INFO     vidfs/video1/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,414 INFO     vidfs/video1/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,414 INFO     vidfs/video1/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,415 INFO     vidfs/video1/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,415 INFO     vidfs/video1/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,416 INFO     errcount: 10
+2020-02-12 23:05:52,416 INFO     saving this item into partial list. file id: video1.mp4
+
+2020-02-12 23:05:52,417 ERROR    
+Error count: 10 File Id: video1.mp4
+
+2020-02-12 23:05:52,485 INFO     Py - Executing transcode on: video2.mp4
+
+2020-02-12 23:05:52,593 INFO     Py - I am done with: video2.mp4
+
+2020-02-12 23:05:52,595 INFO     vidfs/video2/dash/video2-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:52,596 INFO     vidfs/video2/dash/video2-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:52,599 INFO     vidfs/video2/dash/video2-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:52,600 INFO     vidfs/video2/dash/video2-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:52,601 INFO     vidfs/video2/dash/video2.mpd doesnt exists. Wrong.
+2020-02-12 23:05:52,602 INFO     vidfs/video2/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,604 INFO     vidfs/video2/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,605 INFO     vidfs/video2/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,606 INFO     vidfs/video2/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,608 INFO     vidfs/video2/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,609 INFO     errcount: 10
+2020-02-12 23:05:52,611 INFO     saving this item into partial list. file id: video2.mp4
+
+2020-02-12 23:05:52,612 ERROR    
+Error count: 10 File Id: video2.mp4
+
+2020-02-12 23:05:52,655 INFO     Py - Executing transcode on: video3.mp4
+
+2020-02-12 23:05:52,747 INFO     Py - I am done with: video3.mp4
+
+2020-02-12 23:05:52,748 INFO     vidfs/video3/dash/video3-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:52,749 INFO     vidfs/video3/dash/video3-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:52,750 INFO     vidfs/video3/dash/video3-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:52,752 INFO     vidfs/video3/dash/video3-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:52,753 INFO     vidfs/video3/dash/video3.mpd doesnt exists. Wrong.
+2020-02-12 23:05:52,754 INFO     vidfs/video3/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,767 INFO     vidfs/video3/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,768 INFO     vidfs/video3/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,771 INFO     vidfs/video3/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,772 INFO     vidfs/video3/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,773 INFO     errcount: 10
+2020-02-12 23:05:52,775 INFO     saving this item into partial list. file id: video3.mp4
+
+2020-02-12 23:05:52,776 ERROR    
+Error count: 10 File Id: video3.mp4
+
+2020-02-12 23:05:52,818 INFO     Py - Executing transcode on: video4.mp4
+
+2020-02-12 23:05:52,910 INFO     Py - I am done with: video4.mp4
+
+2020-02-12 23:05:52,911 INFO     vidfs/video4/dash/video4-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:52,913 INFO     vidfs/video4/dash/video4-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:52,916 INFO     vidfs/video4/dash/video4-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:52,917 INFO     vidfs/video4/dash/video4-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:52,918 INFO     vidfs/video4/dash/video4.mpd doesnt exists. Wrong.
+2020-02-12 23:05:52,919 INFO     vidfs/video4/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,920 INFO     vidfs/video4/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,922 INFO     vidfs/video4/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,923 INFO     vidfs/video4/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,933 INFO     vidfs/video4/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:52,934 INFO     errcount: 10
+2020-02-12 23:05:52,937 INFO     saving this item into partial list. file id: video4.mp4
+
+2020-02-12 23:05:52,937 ERROR    
+Error count: 10 File Id: video4.mp4
+
+2020-02-12 23:05:52,984 INFO     Py - Executing transcode on: video5.mp4
+
+2020-02-12 23:05:53,077 INFO     Py - I am done with: video5.mp4
+
+2020-02-12 23:05:53,078 INFO     vidfs/video5/dash/video5-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:53,080 INFO     vidfs/video5/dash/video5-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:53,082 INFO     vidfs/video5/dash/video5-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:53,084 INFO     vidfs/video5/dash/video5-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:53,085 INFO     vidfs/video5/dash/video5.mpd doesnt exists. Wrong.
+2020-02-12 23:05:53,086 INFO     vidfs/video5/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,087 INFO     vidfs/video5/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,088 INFO     vidfs/video5/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,090 INFO     vidfs/video5/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,091 INFO     vidfs/video5/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,092 INFO     errcount: 10
+2020-02-12 23:05:53,105 INFO     saving this item into partial list. file id: video5.mp4
+
+2020-02-12 23:05:53,105 ERROR    
+Error count: 10 File Id: video5.mp4
+
+2020-02-12 23:05:53,151 INFO     Py - Executing transcode on: video6.mp4
+
+2020-02-12 23:05:53,249 INFO     Py - I am done with: video6.mp4
+
+2020-02-12 23:05:53,250 INFO     vidfs/video6/dash/video6-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:53,255 INFO     vidfs/video6/dash/video6-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:53,256 INFO     vidfs/video6/dash/video6-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:53,257 INFO     vidfs/video6/dash/video6-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:53,258 INFO     vidfs/video6/dash/video6.mpd doesnt exists. Wrong.
+2020-02-12 23:05:53,269 INFO     vidfs/video6/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,270 INFO     vidfs/video6/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,271 INFO     vidfs/video6/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,273 INFO     vidfs/video6/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,274 INFO     vidfs/video6/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,275 INFO     errcount: 10
+2020-02-12 23:05:53,278 INFO     saving this item into partial list. file id: video6.mp4
+
+2020-02-12 23:05:53,278 ERROR    
+Error count: 10 File Id: video6.mp4
+
+2020-02-12 23:05:53,320 INFO     Py - Executing transcode on: video7.webm
+
+2020-02-12 23:05:53,417 INFO     Py - I am done with: video7.webm
+
+2020-02-12 23:05:53,418 INFO     vidfs/video7/dash/video7-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:53,420 INFO     vidfs/video7/dash/video7-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:53,422 INFO     vidfs/video7/dash/video7-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:53,423 INFO     vidfs/video7/dash/video7-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:53,424 INFO     vidfs/video7/dash/video7.mpd doesnt exists. Wrong.
+2020-02-12 23:05:53,425 INFO     vidfs/video7/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,427 INFO     vidfs/video7/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,428 INFO     vidfs/video7/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,431 INFO     vidfs/video7/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,432 INFO     vidfs/video7/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,442 INFO     errcount: 10
+2020-02-12 23:05:53,445 INFO     saving this item into partial list. file id: video7.webm
+
+2020-02-12 23:05:53,445 ERROR    
+Error count: 10 File Id: video7.webm
+
+2020-02-12 23:05:53,487 INFO     Py - Executing transcode on: video8.mp4
+2020-02-12 23:05:53,580 INFO     Py - I am done with: video8.mp4
+2020-02-12 23:05:53,581 INFO     vidfs/video8/dash/video8-360p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:53,583 INFO     vidfs/video8/dash/video8-480p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:53,584 INFO     vidfs/video8/dash/video8-720p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:53,585 INFO     vidfs/video8/dash/video8-1080p_dashinit.mp4 doesnt exists. Wrong.
+2020-02-12 23:05:53,586 INFO     vidfs/video8/dash/video8.mpd doesnt exists. Wrong.
+2020-02-12 23:05:53,595 INFO     vidfs/video8/hls-media/media-1/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,596 INFO     vidfs/video8/hls-media/media-2/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,597 INFO     vidfs/video8/hls-media/media-3/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,599 INFO     vidfs/video8/hls-media/media-4/stream.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,601 INFO     vidfs/video8/hls-media/playlist.m3u8 doesnt exists. Wrong.
+2020-02-12 23:05:53,603 INFO     errcount: 10
+2020-02-12 23:05:53,604 INFO     saving this item into partial list. file id: video8.mp4
+2020-02-12 23:05:53,604 ERROR    
+Error count: 10 File Id: video8.mp4
+2020-02-12 23:08:09,285 INFO     =====================================
+2020-02-12 23:08:09,285 INFO     hello. manager starting..
+2020-02-12 23:08:09,288 INFO     Py - Executing transcode on: video1.mp4
+
+2020-02-12 23:14:48,577 INFO     Py - I am done with: video1.mp4
+
+2020-02-12 23:14:48,578 INFO     vidfs/video1/dash/video1-360p_dashinit.mp4 exists. Check.
+2020-02-12 23:14:48,579 INFO     vidfs/video1/dash/video1-480p_dashinit.mp4 exists. Check.
+2020-02-12 23:14:48,580 INFO     vidfs/video1/dash/video1-720p_dashinit.mp4 exists. Check.
+2020-02-12 23:14:48,580 INFO     vidfs/video1/dash/video1-1080p_dashinit.mp4 exists. Check.
+2020-02-12 23:14:48,581 INFO     vidfs/video1/dash/video1.mpd exists. Check.
+2020-02-12 23:14:48,581 INFO     vidfs/video1/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 23:14:48,582 INFO     vidfs/video1/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 23:14:48,582 INFO     vidfs/video1/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 23:14:48,583 INFO     vidfs/video1/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 23:14:48,584 INFO     vidfs/video1/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 23:14:48,584 INFO     errcount: 0
+2020-02-12 23:14:48,585 INFO     i am gonna delete top queue id: video1.mp4
+
+2020-02-12 23:14:48,624 INFO     Py - Executing transcode on: video2.mp4
+
+2020-02-12 23:47:09,326 INFO     Py - I am done with: video2.mp4
+
+2020-02-12 23:47:09,328 INFO     vidfs/video2/dash/video2-360p_dashinit.mp4 exists. Check.
+2020-02-12 23:47:09,329 INFO     vidfs/video2/dash/video2-480p_dashinit.mp4 exists. Check.
+2020-02-12 23:47:09,330 INFO     vidfs/video2/dash/video2-720p_dashinit.mp4 exists. Check.
+2020-02-12 23:47:09,331 INFO     vidfs/video2/dash/video2-1080p_dashinit.mp4 exists. Check.
+2020-02-12 23:47:09,332 INFO     vidfs/video2/dash/video2.mpd exists. Check.
+2020-02-12 23:47:09,340 INFO     vidfs/video2/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 23:47:09,354 INFO     vidfs/video2/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 23:47:09,359 INFO     vidfs/video2/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 23:47:09,360 INFO     vidfs/video2/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 23:47:09,361 INFO     vidfs/video2/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 23:47:09,367 INFO     errcount: 0
+2020-02-12 23:47:09,370 INFO     i am gonna delete top queue id: video2.mp4
+
+2020-02-12 23:47:09,431 INFO     Py - Executing transcode on: video3.mp4
+
+2020-02-12 23:55:08,413 INFO     Py - I am done with: video3.mp4
+
+2020-02-12 23:55:08,414 INFO     vidfs/video3/dash/video3-360p_dashinit.mp4 exists. Check.
+2020-02-12 23:55:08,415 INFO     vidfs/video3/dash/video3-480p_dashinit.mp4 exists. Check.
+2020-02-12 23:55:08,416 INFO     vidfs/video3/dash/video3-720p_dashinit.mp4 exists. Check.
+2020-02-12 23:55:08,416 INFO     vidfs/video3/dash/video3-1080p_dashinit.mp4 exists. Check.
+2020-02-12 23:55:08,417 INFO     vidfs/video3/dash/video3.mpd exists. Check.
+2020-02-12 23:55:08,417 INFO     vidfs/video3/hls-media/media-1/stream.m3u8 exists. Check.
+2020-02-12 23:55:08,418 INFO     vidfs/video3/hls-media/media-2/stream.m3u8 exists. Check.
+2020-02-12 23:55:08,419 INFO     vidfs/video3/hls-media/media-3/stream.m3u8 exists. Check.
+2020-02-12 23:55:08,419 INFO     vidfs/video3/hls-media/media-4/stream.m3u8 exists. Check.
+2020-02-12 23:55:08,420 INFO     vidfs/video3/hls-media/playlist.m3u8 exists. Check.
+2020-02-12 23:55:08,420 INFO     errcount: 0
+2020-02-12 23:55:08,421 INFO     i am gonna delete top queue id: video3.mp4
+
+2020-02-12 23:55:08,457 INFO     Py - Executing transcode on: video4.mp4
